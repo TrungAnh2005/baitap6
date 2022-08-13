@@ -1,0 +1,51 @@
+.container{
+    width: 600px;
+    height: 600px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    position: absolute;
+    left: calc(50vw - 300px);
+
+}
+.card{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    position: relative;
+    top: 100px;
+    left: 150px;
+
+}
+.card-1{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    position: relative;
+    bottom: 100px;
+    left: 150px;
+}
+.icon{
+    margin-left: 20px;
+    color: blue;
+}
+.icon-1{
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    margin-left: 20px;
+    display: flex;
+    border-radius: 50%;
+}
+.icon-2{
+    width: 115px;
+    padding: 10px;
+    border: 1px solid blue;
+    color: white;
+    background-color: blue;
+}
+.icon-3{
+    padding: 10px;
+    border: 1px solid blue ;
+    color: blue;
+}
