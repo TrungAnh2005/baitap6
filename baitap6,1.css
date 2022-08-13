@@ -1,0 +1,30 @@
+ .container{
+    margin: auto;
+    background-color: pink;
+    height: 800px;
+    width:100%;
+ } 
+ .card{
+        position: relative;
+        left: 350px;
+        top: 200px;
+
+ }
+ .card-1{
+    float: left;
+ }
+ .card-2{
+    width: 372px;
+    height: 420px;
+    background-color: white;
+    position: absolute;
+    left: 372px;
+    border-radius: 0 10px  10px 0;
+}
+.icon{
+    border: 1px solid aqua;
+    padding: 15px;
+    width: 150px;
+    border-radius: 15px;
+}
+   

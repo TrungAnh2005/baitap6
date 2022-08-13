@@ -1,0 +1,26 @@
+.card{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    border: 1px solid cadetblue;
+}
+.card-1{
+    width: 800px;
+    height: 400px;
+    border: 1px solid cadetblue;
+    background-color: cadetblue;
+}
+.icon{
+   float: left;
+}
+.icon-1{
+    border: 1px solid black;
+    padding: 10px 20px 10px 20px;
+    
+}
+.card-2{
+    width: 300px;
+    height: 400px;
+    border: 1px solid cadetblue;
+    background-color: cadetblue;
+}
